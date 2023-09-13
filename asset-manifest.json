@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/edith-birthday/static/css/main.51e9dbe5.css",
-    "main.js": "/edith-birthday/static/js/main.2d0f289c.js",
+    "main.js": "/edith-birthday/static/js/main.49107310.js",
     "static/js/787.89f6859a.chunk.js": "/edith-birthday/static/js/787.89f6859a.chunk.js",
     "static/media/cumple.jpeg": "/edith-birthday/static/media/cumple.00d6ed6a6d1e7370f558.jpeg",
     "static/media/manzanita.webp": "/edith-birthday/static/media/manzanita.f3ef6dbfdf48b9dbe864.webp",
     "index.html": "/edith-birthday/index.html",
     "main.51e9dbe5.css.map": "/edith-birthday/static/css/main.51e9dbe5.css.map",
-    "main.2d0f289c.js.map": "/edith-birthday/static/js/main.2d0f289c.js.map",
+    "main.49107310.js.map": "/edith-birthday/static/js/main.49107310.js.map",
     "787.89f6859a.chunk.js.map": "/edith-birthday/static/js/787.89f6859a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51e9dbe5.css",
-    "static/js/main.2d0f289c.js"
+    "static/js/main.49107310.js"
   ]
 }
